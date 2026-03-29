@@ -1,6 +1,6 @@
 cask "focusflow" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_SHA256_FROM_build-dmg.sh"
+  sha256 "f68034d628456b629e4cf24649f9d8c4a7c3f5c75bd3054278add88b33fd5596"
 
   url "https://github.com/goyal-chintan/focus-flow/releases/download/v#{version}/FocusFlow-#{version}.dmg"
 
